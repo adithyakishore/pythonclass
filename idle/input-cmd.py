@@ -1,0 +1,6 @@
+name = input('enter your name')
+print(name)
+fname = input('enter your first name')
+lname = input('enter your last name')
+age = input('enter your age')
+print('my name is' ,fname,lname,'my age is',age )
